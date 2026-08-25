@@ -6,8 +6,6 @@ Analista de **Cybersecurity** em especialização pela EBAC. Foco em Análise de
 
 ---
 
-### 🛠️ Competências Técnicas
-
 ### 🛠️ Competências Técnicas & Ferramentas
 
 ![Cybersecurity](https://img.shields.io/badge/Domain-Cybersecurity-0052CC?style=for-the-badge)
